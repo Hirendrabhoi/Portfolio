@@ -1,16 +1,79 @@
-# React + Vite
+#  Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website built to showcase my skills, projects, and design work.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Live Demo
+ (Add your deployed link here)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Features
 
-## Expanding the ESLint configuration
+- Smooth loading screen with animation
+- Clean and modern UI design
+- Fully responsive (mobile + desktop)
+- Fast performance using Vite
+- Structured layout with reusable components
+- Contact section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion (optional if used)
+- **Build Tool:** Vite
+
+---
+
+## What I Learned
+
+While building this portfolio, I learned:
+
+- How to structure a React application properly
+- Managing state using `useState` and `useEffect`
+- Designing modern UI using Tailwind CSS
+- Creating smooth loading animations
+- Building reusable components
+- Making responsive layouts for all screen sizes
+- Optimizing performance and user experience
+
+---
+
+## Purpose
+
+This project is built to:
+- Showcase my **skills and projects**
+- Highlight my **design and development abilities**
+- Serve as a **personal brand website**
+
+---
+
+## Folder Structure
+src/
+├── pages/
+├── components/
+├── assets/
+├── App.jsx
+└── main.jsx
+
+
+---
+
+## Installation & Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo.git
+
+# Navigate to project
+cd your-repo
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
