@@ -5,7 +5,7 @@ A modern and responsive portfolio website built to showcase my skills, projects,
 ---
 
 ##  Live Demo
- (Add your deployed link here)
+ (https://hirendrabhoi.netlify.app/)
 
 ---
 
