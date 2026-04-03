@@ -50,16 +50,6 @@ This project is built to:
 - Highlight my **design and development abilities**
 - Serve as a **personal brand website**
 
----
-
-## Folder Structure
-src/
-├── pages/
-├── components/
-├── assets/
-├── App.jsx
-└── main.jsx
-
 
 ---
 
